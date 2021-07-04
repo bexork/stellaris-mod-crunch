@@ -1,0 +1,67 @@
+!!Ariphaos Unofficial Patch (3.0)
+Flags: Emblems & Backgrounds UP-TO-DATE
+Astronomical Emblem Pack
+Eagle Flags
+Battle Debris - Starship Graveyards
+Amazing Space Battles
+ASB Addon: More Particles
+ASB Addon: Shorter Battles
+Epic Explosions
+Reduce Aura Graphics
+EG* - No Exhaust Trails
+Clearer System Occupation Icons - Alternative 2
+Alien Suns
+Additional Humanoid Portraits
+Androids Expanded
+*Remastered Human Portraits
+*Remastered Human Portraits Expanded Standalone
+SE- Human - Hair
+Prothean Portraits
+Gnomes Portraits
+LLX's Mods - Compiled Dimorphism (3.0 'D ick')
+United Fleet Shipset
+United Earth Namelist Expanded NSC
+Kurogane Expanded (New)
+Sins of the Prophets: Stellaris
+Machine Shipset
+Apocalypse Molluscoid Ships: 3.0+
+Fairy Empire Shipset
+The X3 Mod
+C&C: Scrin Ships <====(**REV T**)
+More Human Clothes
+Archaeology Story Pack
+StarTech AI <====(**DO NOT use with StarNet AI**)
+~StarNet AI <====(**DO NOT use with StarTech AI**)
+~ StarNet Friendship Patch <====(**Can Be used with StarNet AI or StarTech AI**)
+Real Space 3.8
+Real Space - New Frontiers <====(See note above)***
+No Clustered Starts <====(See note above)***
+UI Overhaul Dynamic
+Tiny Outliner V2
+UI Overhaul Dynamic + Tiny Outliner v2
+Tiny Starbase Modules and Buildings <====(**REV T**)<====(***Optional***)
+UI Overhaul Dynamic + Complete Colors
+UI Overhaul Dynamic - Extended Topbar
+Tiny Fleets for UI Overhaul Dynamic <====(**REV T**)<====(***Optional***)
+Guilli's Technologies
+Extra Ship Components 3.0 [Actual]
+(-NSC2 Season 6-)
+! Starnet for NSC2 <====(**Load this mod when using StarNet AI or StarTech AI**)
+Starnet for ESC <====(**Load this mod when using StarNet AI or StarTech AI**)
+At War: Better Admiral Experience (3.0.3)
+Sins of the Prophets: NSC Compatibility Patch
+Tier Numbers: Buildings
+Planet Raider
+Upgradable Refinery Buildings
+More Events Mod
+Clerk plus <====(***Optional - increases clerk amenities to +4***)
+Jump Gates
+!Patch - Shader merge for ACoT, Gigastructures, Jump Gates and Real Space 3.7
+Better Primitive Art
+Guilli's Planet Modifiers and Features
+Fleet Formation Mod 3.0.+ <====(***Optional - see Note above***) <====(**REV S**)
+Wide Fleet Formation <====(***Optional - see Note above***)
+Habitat AI colonisation fix
+!!!Universal Resource Patch [2.4+]
+A.C.E.
+! The Merger of Rules 3.0

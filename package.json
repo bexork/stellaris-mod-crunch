@@ -1,19 +1,19 @@
 {
-  "name": "mod-crunch",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@starkeeper/mod-crunch",
+  "version": "0.1.1",
+  "description": "This tool creates symlinks to mods to help bundlers bundle",
   "main": "index.js",
   "scripts": {
-    "run": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "run": "node index.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "bexork",
+  "license": "MIT",
   "dependencies": {
+    "@esandstedt/stellaris-model": "^0.5.1",
+    "@starkeeper/stellaris-mission-control": "file:../stellaris-mission-control",
     "node-7zip": "^1.0.1",
     "shelljs": "^0.8.4",
     "sqlite3": "^5.0.2",
-    "@esandstedt/stellaris-model": "^0.5.1",
     "stellaris-to-json": "^1.0.2"
   }
 }
