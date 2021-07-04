@@ -15,5 +15,9 @@
     "shelljs": "^0.8.4",
     "sqlite3": "^5.0.2",
     "stellaris-to-json": "^1.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.30.0",
+    "eslint-plugin-react": "^7.24.0"
   }
 }

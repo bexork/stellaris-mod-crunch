@@ -1,0 +1,18 @@
+﻿stellaris:
+  executable: C:/SteamHome/steamapps/common/Stellaris/Stellaris.exe
+  root: # will become parent directory of executable
+  documents:
+    root: $USER_HOME/Documents/Paradox Interactive/Stellaris
+    db: launcher-v2.sqlite
+    logs: logs
+    mods: mods
+    crashes: crashes
+  index:
+    root: C:/StellarisIndex
+    stellaris: C:/StellarisIndex/000_Stellaris
+    mod: C:/StellarisIndex/001_ActivePlayset
+    all: C:/StellarisIndex/002_AllMods
+    merge: C:/StellarisIndex/003_Merged
+    mod_crunch: C:/StellarisIndex/004_ModCrunch
+    links: C:/StellarisIndex/005_Links
+

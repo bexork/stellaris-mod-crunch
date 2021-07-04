@@ -72,7 +72,7 @@ const ModCrunchStellarisIndexer = () => {
             }
             if (exception.stack) {
                 console.error(`ERROR: ${exception.stack}`);
-            } 
+            }
             exit(1);
         }
 
@@ -250,7 +250,7 @@ const ModCrunchStellarisIndexer = () => {
             sequencerMod = new Sequencer({ padChar: '0', padLen: 5, indexRoot: options.FileLoadOrder ?  INDEX_ROOT_LOAD_ORDER : INDEX_MOD_PUBLISH_ORDER});
             sequencerAll = new Sequencer({ padChar: 'X', padLen: 5, indexRoot: options.FileLoadOrder ?  INDEX_ROOT_LOAD_ORDER : INDEX_MOD_PUBLISH_ORDER});
 
-            MkDir(INDEX_MOD_ROOT);        
+            MkDir(INDEX_MOD_ROOT);
             MkDir(INDEX_ROOT_ALL);
             MkDir(INDEX_ROOT_CRUNCH);
 
@@ -432,7 +432,7 @@ const ModCrunchStellarisIndexer = () => {
             return false;
         }
 
-        
+
         const Indexer = async () => {
             return new Promise(async (accept, reject) => {
                 try {

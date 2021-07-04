@@ -1,17 +1,13 @@
-const ModCrunchStellarisIndexer = require('./mod-crunch-indexer');
-
-const Index = async () => {
-    console.log("Index Begin");
-    await ModCrunchStellarisIndexer().Index();
-    console.log("Index Complete");
-}
+import ModCrunchStellarisIndexer from './lib/mod-crunch-indexer'
+import process from 'process'
+import { AbortException } from '@starkeeper/stellaris-mission-control/core-utils.js'
 
 try {
-    process.on('uncaughtException', function (err) {
-        console.error( "UNCAUGHT EXCEPTION " );
-        console.error(err.stack ? err.stack : 'NO STACK TRACE AVAILABLE');
-    });    
-    Index();
+  process.on('uncaughtException', function (err) {
+    console.error('UNCAUGHT EXCEPTION ')
+    console.error(err.stack ? err.stack : 'NO STACK TRACE AVAILABLE')
+  })
+  ModCrunchStellarisIndexer().Index()
 } catch (exception) {
-    AbortException('Failed at outer exception handler', exception);
+  AbortException('Failed at outer exception handler', exception)
 }
