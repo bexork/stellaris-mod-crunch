@@ -1,0 +1,19 @@
+{
+  "name": "mod-crunch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-7zip": "^1.0.1",
+    "shelljs": "^0.8.4",
+    "sqlite3": "^5.0.2",
+    "@esandstedt/stellaris-model": "^0.5.1",
+    "stellaris-to-json": "^1.0.2"
+  }
+}
