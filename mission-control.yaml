@@ -1,8 +1,8 @@
 ﻿stellaris:
   executable: C:/SteamHome/steamapps/common/Stellaris/Stellaris.exe
   root: # will become parent directory of executable
-  documents:
-    root: $USER_HOME/Documents/Paradox Interactive/Stellaris
+  documents: #All paths below will be loaded as full paths automatically
+    root: Documents/Paradox Interactive/Stellaris
     db: launcher-v2.sqlite
     logs: logs
     mods: mods

@@ -2,9 +2,10 @@
   "name": "@starkeeper/mod-crunch",
   "version": "0.1.1",
   "description": "This tool creates symlinks to mods to help bundlers bundle",
-  "main": "index.js",
+  "type": "module",
+  "main": "lib/index.js",
   "scripts": {
-    "run": "node index.js"
+    "start": "node ./lib/index.js"
   },
   "author": "bexork",
   "license": "MIT",
@@ -17,7 +18,6 @@
     "stellaris-to-json": "^1.0.2"
   },
   "devDependencies": {
-    "eslint": "^7.30.0",
-    "eslint-plugin-react": "^7.24.0"
+    "eslint": "^7.30.0"
   }
 }
