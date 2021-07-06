@@ -9,10 +9,41 @@
     crashes: crashes
   index:
     root: C:/StellarisIndex
+    images: C:/StellarisImages
     stellaris: C:/StellarisIndex/000_Stellaris
     mod: C:/StellarisIndex/001_ActivePlayset
     all: C:/StellarisIndex/002_AllMods
     merge: C:/StellarisIndex/003_Merged
     mod_crunch: C:/StellarisIndex/004_ModCrunch
-    links: C:/StellarisIndex/005_Links
+  links: C:/StellarisIndex/005_Links
+    mod-options: 
+      common:
+        defines:
+        event_chains:
+        global_ship_designs:
+        map_modes: 
+        megastructures: 
+        name_lists: 
+        on_action: 
+        opinion_modifiers: 
+        pop_jobs: 
+        scripted_effects: 
+        scripted_variables:
+        section_templates:
+        ship_sizes:
+        special_projects:
+        start_screen_messages: 
+        static_modifiers: 
+        technology:
+        traits:
+      gfx:
+        interface:
+          icons:
+          particles:
+      interface:
+      localisation:
+      map:
+      prescripted_countries:
+
+
 
