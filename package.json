@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "@esandstedt/stellaris-model": "^0.5.1",
-    "@starkeeper/stellaris-mission-control": "file:../stellaris-mission-control",
+    "@starkeeper/stellaris-mission-control": "file:../starkeeper-mission-control",
     "chalk": "^4.1.1",
     "node-7zip": "^1.0.1",
     "shelljs": "^0.8.4",
@@ -20,6 +20,8 @@
     "wasm-imagemagick": "^1.2.8"
   },
   "devDependencies": {
-    "eslint": "^7.30.0"
+    "eslint": "^7.30.0",
+    "eslint-config-esnext": "^4.1.0",
+    "eslint-config-recommended": "^4.1.0"
   }
 }

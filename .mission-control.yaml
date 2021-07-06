@@ -1,6 +1,7 @@
 ﻿stellaris:
   executable: C:/SteamHome/steamapps/common/Stellaris/Stellaris.exe
   root: # will become parent directory of executable
+  imageMagickConvert: C:/ImageMagick710Q16HDRI-x64/convert
   documents: #All paths below will be loaded as full paths automatically
     root: Documents/Paradox Interactive/Stellaris
     db: launcher-v2.sqlite
@@ -15,25 +16,25 @@
     all: C:/StellarisIndex/002_AllMods
     merge: C:/StellarisIndex/003_Merged
     mod_crunch: C:/StellarisIndex/004_ModCrunch
-  links: C:/StellarisIndex/005_Links
-    mod-options: 
+    links: C:/StellarisIndex/005_Links
+  mod_structure:
       common:
         defines:
         event_chains:
         global_ship_designs:
-        map_modes: 
-        megastructures: 
-        name_lists: 
-        on_action: 
-        opinion_modifiers: 
-        pop_jobs: 
-        scripted_effects: 
+        map_modes:
+        megastructures:
+        name_lists:
+        on_action:
+        opinion_modifiers:
+        pop_jobs:
+        scripted_effects:
         scripted_variables:
         section_templates:
         ship_sizes:
         special_projects:
-        start_screen_messages: 
-        static_modifiers: 
+        start_screen_messages:
+        static_modifiers:
         technology:
         traits:
       gfx:
