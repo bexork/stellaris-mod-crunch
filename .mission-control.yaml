@@ -14,9 +14,11 @@
     stellaris: C:/StellarisIndex/000_Stellaris
     mod: C:/StellarisIndex/001_ActivePlayset
     all: C:/StellarisIndex/002_AllMods
-    merge: C:/StellarisIndex/003_Merged
+    merge: C:/Users/bexac/Documents/Paradox Interactive/Stellaris/mod/BCG-Dollhouse-Pack
+    cleanMerge: true
     mod_crunch: C:/StellarisIndex/004_ModCrunch
     links: C:/StellarisIndex/005_Links
+  imageMagickHome: C:/ImageMagick710Q16HDRI-x64
   mod_structure:
       common:
         defines:

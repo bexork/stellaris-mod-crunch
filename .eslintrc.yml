@@ -1,14 +1,11 @@
 env:
-  browser: true
+  node: true
   es2021: true
 extends:
-  - 'esnext'
+  - 'eslint:recommended'
 parserOptions:
-  ecmaFeatures:
-    impliedStrict: true
   ecmaVersion: 12
   sourceType: module
-plugins:
 rules:
   indent:
     - error
